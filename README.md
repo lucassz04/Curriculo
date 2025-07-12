@@ -31,12 +31,8 @@
           <p>O projeto ainda esta em faze de desenvolvimento pra a apresentação final.</p>
         </div>
         <div class="card">
-          <h3>Calculadora de Área</h3>
-          <p>Site interativo para cálculo de área de figuras geométricas usando HTML, CSS e JavaScript.</p>
-        </div>
-        <div class="card">
           <h3>Hamburgueria</h3>
-         <link href="https://hamburguerianexcod.netlify.app/">
+         <link href="https://hamburguerianexcod.netlify.app/" rel="stylesheet">
         </div>
       </div>
     </div>
