@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Portfólio Andrey Lucas</title>
-  <link rel="stylesheet" href="style.css"/> 
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -37,7 +36,7 @@
         </div>
         <div class="card">
           <h3>Hamburgueria</h3>
-          <p>hamburguerianexcod.netlify.app</p>
+         <link href="https://hamburguerianexcod.netlify.app/">
         </div>
       </div>
     </div>
